@@ -2,7 +2,7 @@
 You can Play a simple rock paper scissorrs game with the computer.
 
 
-This Code shows that the Manas Ashwin(ME!!!!) is able to code Native iOS Apps in swift and has a comprehensive understanding about iOS frameworks like UIKit and other such.
+This Code shows that the Manas Ashwin(ME!!!!) is able to code Native iOS Apps in swift and has a comprehensive understanding about iOS frameworks like UIKit, GameplayKit and other such native APIs.
 
 Also he is able to perform great actions and convert the algorithms to code by using all the principles of the SWIFT programming language.
 
